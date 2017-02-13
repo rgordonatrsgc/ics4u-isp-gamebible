@@ -12,7 +12,9 @@
 		F60F4DC71E51F761000594FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DC51E51F761000594FD /* Main.storyboard */; };
 		F60F4DC91E51F761000594FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DC81E51F761000594FD /* Assets.xcassets */; };
 		F60F4DCC1E51F761000594FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DCA1E51F761000594FD /* LaunchScreen.storyboard */; };
-		F60F4DD51E51F80A000594FD /* ISP Proposal.pdf in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DD41E51F80A000594FD /* ISP Proposal.pdf */; };
+		F60F4DD71E522AE4000594FD /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F60F4DD61E522AE4000594FD /* README.md */; };
+		F60F4DD91E522B02000594FD /* Home & Browse.png in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DD81E522B02000594FD /* Home & Browse.png */; };
+		F60F4DDB1E522B0C000594FD /* Game.png in Resources */ = {isa = PBXBuildFile; fileRef = F60F4DDA1E522B0C000594FD /* Game.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +25,9 @@
 		F60F4DC81E51F761000594FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F60F4DCB1E51F761000594FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F60F4DCD1E51F761000594FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F60F4DD41E51F80A000594FD /* ISP Proposal.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "ISP Proposal.pdf"; sourceTree = "<group>"; };
+		F60F4DD61E522AE4000594FD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F60F4DD81E522B02000594FD /* Home & Browse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home & Browse.png"; sourceTree = "<group>"; };
+		F60F4DDA1E522B0C000594FD /* Game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Game.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +74,9 @@
 		F60F4DD31E51F7B4000594FD /* Documentation */ = {
 			isa = PBXGroup;
 			children = (
-				F60F4DD41E51F80A000594FD /* ISP Proposal.pdf */,
+				F60F4DD61E522AE4000594FD /* README.md */,
+				F60F4DD81E522B02000594FD /* Home & Browse.png */,
+				F60F4DDA1E522B0C000594FD /* Game.png */,
 			);
 			name = Documentation;
 			sourceTree = "<group>";
@@ -134,8 +140,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F60F4DD51E51F80A000594FD /* ISP Proposal.pdf in Resources */,
 				F60F4DCC1E51F761000594FD /* LaunchScreen.storyboard in Resources */,
+				F60F4DD91E522B02000594FD /* Home & Browse.png in Resources */,
+				F60F4DDB1E522B0C000594FD /* Game.png in Resources */,
 				F60F4DC91E51F761000594FD /* Assets.xcassets in Resources */,
 				F60F4DC71E51F761000594FD /* Main.storyboard in Resources */,
 			);
@@ -148,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F60F4DD71E522AE4000594FD /* README.md in Sources */,
 				F60F4DC41E51F761000594FD /* ViewController.swift in Sources */,
 				F60F4DC21E51F761000594FD /* AppDelegate.swift in Sources */,
 			);

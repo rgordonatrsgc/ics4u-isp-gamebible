@@ -31,46 +31,49 @@ Modify this document and add your responses to the following prompts below.
 
 *Write a paragraph to describe the utility of your application. This applies equally for games. When would someone use your application? Why would they use your application?*
 
-Replace this with your paragraph(s).
+Game Bible, my iOS application, will consist of a library of card games, instructions on how to play each game, and a multiple view controller user interface. The user will be able to navigate from a home screen through a database of games, each game including a description, the rules, how to play and what materials you may need to play it. The app will include a home screen, a view of all the games, a search and filter feature, and views for each individual game. Have a deck of cards and a few dice? Find out what games you can play with Game Bible.
+
+The search feature will be a key factor in this application. If the user wants to only see games that are actually playable due to their materials and amount of people, they can select their their limitations and search through the games that are playable based off their input. 
 
 ### What is your inspiration for this project?
 
 *Have you seen another application that you wish to improve on? Has someone asked you to create this?*
 
-Replace this with your paragraph(s).
+Almost every successful application available in the App Store has a multi-view user interface. I would like to be able to create my own multi- view applications, and the best way to learn is to do. So, this will be a sort of "template" and "Guinea pig" for my future multi-view applications. 
+
+I have not yet found an application that is very similar to my idea. Honestly, I do not think this is a million-dollar app idea, but creating this app is more about learning than to creat the next big app. So, even if there was a similar application idea to mine, I would still be able to reach my goal. 
 
 ### What is your prior experience in this area?
 
 *Have you written an application like this before? Have you made use of any required APIs before?*
 
-Replace this with your paragraph(s).
+I have only ever once dealt with a multi-view interface. We reviewed a tutorial that dipped into the material, but there is still so much that I can learn. I will also need to use some sort of database, or even create my own. I have used databases before but would like to learn more about them. 
 
 ### What are skills do you hope to acquire by completing this project?
 
 *For example, you might be writing a networked application for the first time. Or, you may be writing an application that requires a particularly well designed user interface. Describe what you expect to learn by writing this application.*
 
-Replace this with your paragraph(s).
+As mentioned before, I was hoping this app could be a template for future apps. As I will be creating more multi-view apps in the future, and this UI could support these. If creating a similar app, I can go back to my git hub and download a commit that has a simple multi-view app. In the future I would likt to be able to refer to my past learning experiences and use the knowladge gained from them. 
 
 ### What dependencies, if any, will be required to complete your project?
 
 *If you are writing a networked application, you might be using an API like Alamofire to simplify that part of the implementation. If you are writing an application that communicates over Bluetooth, you may be using the Core Bluetooth framework. Please list any expected dependencies for your project.*
 
-Replace this with your paragraph(s).
+This app will depend on the database that I chose to use. The level of difficulty will vary depending on if the database will be internal or external to the application.
+
 
 ### Rate the personal difficulty level of this project.
 
-Replace this with your paragraph(s).
+This will be the most advanced application that I will have written. The process of building the app will include hours of work and lots of research. I am up for the challenge because I know I will benefit off this in the future. The knowledge gains will be worth my time. I have been looking forward to making multi-view applications for a long time. 
+
 
 ### Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Replace this with your paragraph(s).
+My biggest challenge in creating this application will be the UI. Getting the UI to work smoothly will be a project on its own. The user will need to navigate through different pages, so a user-friendly UI will be important. 
+
 
 ### Make storyboards to indicate the user interface and/or functionality of your application.
 
 *In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
-
-Replace this with your images and paragraphs.
-
-
 
 
