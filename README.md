@@ -76,6 +76,6 @@ My biggest challenge in creating this application will be the UI. Getting the UI
 
 *In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
 
+https://github.com/rsgc-jones-n/ics4u-isp-gamebible/blob/master/Game%20Bible/Home%20&%20Browse.png?raw=true
+
 https://github.com/rsgc-jones-n/ics4u-isp-gamebible/blob/master/Game%20Bible/Game.png?raw=true
-
-
